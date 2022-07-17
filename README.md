@@ -11,3 +11,4 @@
 </p>
 
 ## 🚀 How to download
+As of right now, WiserMod has not been released. However, you can find it [here](https://discord.com/channels/844882577856004096/844887220694679552) when it does release!
