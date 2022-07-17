@@ -15,3 +15,5 @@ As of right now, WiserMod has not been released. However, you can find it [here]
 
 Requirements:
 - A non-pirated version of Minecraft for Windows 10/11 Edition 
+- A launcher/injector that works with Minecraft
+- Version Support (WiserMod doesn't currently support any versions as it's not released)
