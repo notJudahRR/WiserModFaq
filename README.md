@@ -12,3 +12,6 @@
 
 ## 🚀 How to download
 As of right now, WiserMod has not been released. However, you can find it [here](https://discord.com/channels/844882577856004096/844887220694679552) when it does release!
+
+Requirements:
+- A non-pirated version of Minecraft for Windows 10/11 Edition 
